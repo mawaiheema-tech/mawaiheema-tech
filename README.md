@@ -1,9 +1,12 @@
+<h1 align="center">Hi 👋, I'm Heema</h1>
 
-# Hi there, I'm Heema 👋
+<h3 align="center">
+Software Engineer • Cybersecurity Enthusiast
+</h3>
 
-### 💻 Computer Science Engineering Student
-### 🔐 Cybersecurity Enthusiast
-### 🚀 Aspiring Software Engineer
+<p align="center">
+Building Secure & Innovative Solutions
+</p>
 
 ---
 
