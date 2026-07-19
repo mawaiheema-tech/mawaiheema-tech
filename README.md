@@ -30,7 +30,8 @@ I'm a **Computer Science Engineering** student passionate about building **secur
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,linux,mysql,vscode" />
 </p>
----
+
+
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
