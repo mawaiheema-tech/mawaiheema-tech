@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**mawaiheema-tech/mawaiheema-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Heema 👋
 
-Here are some ideas to get you started:
+### 💻 Computer Science Engineering Student
+### 🔐 Cybersecurity Enthusiast
+### 🚀 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 🌱 Currently learning Java, Python, Cybersecurity, and Web Development
+- 🔭 Building projects in Software Engineering and Cybersecurity
+- 💡 Interested in solving real-world problems with technology
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Linux
+
+---
+
+## 📌 Featured Projects
+
+- 🌐 Portfolio Website
+- 🔐 Password Strength Checker
+- 🛡️ Phishing Detection System
+- 📂 Secure File Integrity Monitor
+- 🍽️ Replattr
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
