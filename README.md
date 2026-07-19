@@ -31,20 +31,19 @@ I'm a **Computer Science Engineering** student passionate about building **secur
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,linux,mysql,vscode" />
 </p>
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mawaiheema-tech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+### 🌐 Portfolio Website
+A responsive personal portfolio showcasing my skills, projects, and journey in Software Engineering and Cybersecurity.
 
-## 📌 Featured Projects
+### 🍽️ Replattr
+A platform focused on reducing food waste by connecting surplus food providers with NGOs and people in need.
 
-- 🌐 Portfolio Website
-- 🔐 Password Strength Checker
-- 🛡️ Phishing Detection System
-- 📂 Secure File Integrity Monitor
-- 🍽️ Replattr
+### 🛡️ Phishing Detection System
+A Python-based project that analyzes URLs and emails to detect potential phishing attacks.
 
+### 🔐 Secure File Integrity Monitor
+A cybersecurity tool that monitors files using hashing techniques to detect unauthorized modifications.
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
