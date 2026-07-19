@@ -9,6 +9,10 @@ Building Secure & Innovative Solutions
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Cybersecurity+Enthusiast;Building+Secure+%26+Innovative+Solutions;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+</p>
+---
 
 ## 👩‍💻 About Me
 
