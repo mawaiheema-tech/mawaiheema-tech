@@ -30,7 +30,12 @@ I'm a **Computer Science Engineering** student passionate about building **secur
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,linux,mysql,vscode" />
 </p>
----
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mawaiheema-tech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 ## 📌 Featured Projects
 
