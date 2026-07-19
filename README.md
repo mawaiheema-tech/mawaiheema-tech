@@ -14,12 +14,15 @@ Building Secure & Innovative Solutions
 </p>
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 🌱 Currently learning Java, Python, Cybersecurity, and Web Development
-- 🔭 Building projects in Software Engineering and Cybersecurity
-- 💡 Interested in solving real-world problems with technology
+I'm a **Computer Science Engineering** student passionate about building **secure, scalable, and user-friendly software**.
+
+💻 I enjoy creating web applications, solving real-world problems through code, and exploring cybersecurity.
+
+🌱 Currently learning **Java, JavaScript, Data Structures & Algorithms, Web Development, Python, SQL, and Cybersecurity**.
+
+🚀 My goal is to become a **Software Engineer** while building strong expertise in **Cybersecurity** and continuously expanding my technical skills.
 
 ---
 
