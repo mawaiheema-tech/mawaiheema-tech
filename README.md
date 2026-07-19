@@ -30,7 +30,7 @@ I'm a **Computer Science Engineering** student passionate about building **secur
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,linux,mysql,vscode" />
 </p>
-
+---
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
@@ -44,6 +44,7 @@ A Python-based project that analyzes URLs and emails to detect potential phishin
 
 ### 🔐 Secure File Integrity Monitor
 A cybersecurity tool that monitors files using hashing techniques to detect unauthorized modifications.
+
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
