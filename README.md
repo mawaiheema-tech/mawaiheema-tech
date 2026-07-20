@@ -69,13 +69,13 @@ A basic vulnerability scanning project designed to identify common security weak
 
 My personal portfolio showcasing my skills, education, projects, and journey toward becoming a Software Engineer and Cybersecurity professional.
 
-
 ---
 
 #### 🛒 Amazon Clone
 **Tech Stack:** HTML • CSS
 
 A responsive Amazon homepage clone built to strengthen front-end development skills and recreate a real-world e-commerce interface.
+
 ---
 ## 🌐 Connect With Me
 
