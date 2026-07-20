@@ -24,6 +24,11 @@ I'm a **Computer Science Engineering** student passionate about building **secur
 🚀 My goal is to become a **Software Engineer** while building strong expertise in **Cybersecurity** and continuously expanding my technical skills.
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mawaiheema-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
 
 ## ⚡ Tech Arsenal
 
