@@ -69,6 +69,7 @@ A basic vulnerability scanning project designed to identify common security weak
 
 My personal portfolio showcasing my skills, education, projects, and journey toward becoming a Software Engineer and Cybersecurity professional.
 
+
 ---
 
 #### 🛒 Amazon Clone
