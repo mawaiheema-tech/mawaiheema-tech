@@ -39,18 +39,42 @@ I'm a **Computer Science Engineering** student passionate about building **secur
 
 ## 🚀 Featured Projects
 
-### 🌐 Portfolio Website
-A responsive personal portfolio showcasing my skills, projects, and journey in Software Engineering and Cybersecurity.
+### 🔐 Cybersecurity Projects
 
-### 🍽️ Replattr
-A platform focused on reducing food waste by connecting surplus food providers with NGOs and people in need.
+#### 🛡️ Phishing Detection System
+**Tech Stack:** Python
 
-### 🛡️ Phishing Detection System
-A Python-based project that analyzes URLs and emails to detect potential phishing attacks.
+A rule-based cybersecurity tool that detects phishing attempts in URLs and email content using pattern analysis and risk classification.
 
-### 🔐 Secure File Integrity Monitor
-A cybersecurity tool that monitors files using hashing techniques to detect unauthorized modifications.
+---
 
+#### 🔑 Password Strength Checker
+**Tech Stack:** Python
+
+A password security analyzer that evaluates password strength based on length, complexity, and common security best practices.
+
+---
+
+#### 🔍 Basic Vulnerability Scan
+**Tech Stack:** Cybersecurity
+
+A basic vulnerability scanning project designed to identify common security weaknesses in websites and systems.
+
+---
+
+### 💻 Web Development Projects
+
+#### 🌐 Portfolio Website
+**Tech Stack:** HTML • CSS • JavaScript
+
+My personal portfolio showcasing my skills, education, projects, and journey toward becoming a Software Engineer and Cybersecurity professional.
+
+---
+
+#### 🛒 Amazon Clone
+**Tech Stack:** HTML • CSS
+
+A responsive Amazon homepage clone built to strengthen front-end development skills and recreate a real-world e-commerce interface.
 ---
 ## 🌐 Connect With Me
 
