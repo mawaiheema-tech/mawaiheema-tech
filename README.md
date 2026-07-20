@@ -52,5 +52,20 @@ A Python-based project that analyzes URLs and emails to detect potential phishin
 A cybersecurity tool that monitors files using hashing techniques to detect unauthorized modifications.
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heema-mawai-888aaa32a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mawaiheema@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mawaiheema-tech.github.io/heema-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ⭐ Thanks for visiting my GitHub profile!
