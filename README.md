@@ -27,7 +27,7 @@ I'm a **Computer Science Engineering** student passionate about building **secur
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mawaiheema-tech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mawaiheema-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 ## ⚡ Tech Arsenal
